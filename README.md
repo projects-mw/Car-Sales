@@ -80,3 +80,12 @@ Do not attempt stretch problems until MVP has been reached and a final commit ha
 
 ## Submission Format
 * [ ] Submit a Pull-Request to merge `<firstName-lastName>` Branch into `main` (student's  Repo). **Please don't merge your own pull request**
+
+## recordings
+
+[dustin myers](https://youtu.be/O1-bBHYl6iY)
+[brian kirkby](https://youtu.be/WmrldPcjCSc)
+[ryan hamblin](https://youtu.be/oVGU4SZD3A8)
+[josh jacobson](https://youtu.be/UpN4N10RiMM)
+[dan frehner](https://youtu.be/Om6iEtyKl4U)
+[jason maurer](https://youtu.be/GY7YM1jIkZ0)
